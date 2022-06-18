@@ -1,0 +1,5 @@
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.csproj.AssemblyReference.cache
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.AssemblyInfoInputs.cache
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.AssemblyInfo.cs
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.csproj.CoreCompileInputs.cache
