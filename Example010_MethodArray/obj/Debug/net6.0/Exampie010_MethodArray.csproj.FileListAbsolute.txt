@@ -1,0 +1,5 @@
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Exampie010_MethodArray/obj/Debug/net6.0/Exampie010_MethodArray.csproj.AssemblyReference.cache
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Exampie010_MethodArray/obj/Debug/net6.0/Exampie010_MethodArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Exampie010_MethodArray/obj/Debug/net6.0/Exampie010_MethodArray.AssemblyInfoInputs.cache
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Exampie010_MethodArray/obj/Debug/net6.0/Exampie010_MethodArray.AssemblyInfo.cs
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Exampie010_MethodArray/obj/Debug/net6.0/Exampie010_MethodArray.csproj.CoreCompileInputs.cache
