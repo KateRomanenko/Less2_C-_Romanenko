@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Exampie010_MethodArray/Exampie010_MethodArray.csproj": {}
+    "/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Example010_MethodArray/Exampie010_MethodArray.csproj": {}
   },
   "projects": {
-    "/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Exampie010_MethodArray/Exampie010_MethodArray.csproj": {
+    "/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Example010_MethodArray/Exampie010_MethodArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Exampie010_MethodArray/Exampie010_MethodArray.csproj",
+        "projectUniqueName": "/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Example010_MethodArray/Exampie010_MethodArray.csproj",
         "projectName": "Exampie010_MethodArray",
-        "projectPath": "/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Exampie010_MethodArray/Exampie010_MethodArray.csproj",
+        "projectPath": "/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Example010_MethodArray/Exampie010_MethodArray.csproj",
         "packagesPath": "/Users/ekaterinaromanenko/.nuget/packages/",
-        "outputPath": "/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Exampie010_MethodArray/obj/",
+        "outputPath": "/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Example010_MethodArray/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ekaterinaromanenko/.nuget/NuGet/NuGet.Config"
