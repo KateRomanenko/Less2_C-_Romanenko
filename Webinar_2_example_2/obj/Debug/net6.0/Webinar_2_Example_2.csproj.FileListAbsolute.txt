@@ -1,0 +1,15 @@
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Webinar_2_example_2/bin/Debug/net6.0/Webinar_2_Example_2
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Webinar_2_example_2/bin/Debug/net6.0/Webinar_2_Example_2.deps.json
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Webinar_2_example_2/bin/Debug/net6.0/Webinar_2_Example_2.runtimeconfig.json
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Webinar_2_example_2/bin/Debug/net6.0/Webinar_2_Example_2.dll
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Webinar_2_example_2/bin/Debug/net6.0/Webinar_2_Example_2.pdb
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Webinar_2_example_2/obj/Debug/net6.0/Webinar_2_Example_2.csproj.AssemblyReference.cache
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Webinar_2_example_2/obj/Debug/net6.0/Webinar_2_Example_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Webinar_2_example_2/obj/Debug/net6.0/Webinar_2_Example_2.AssemblyInfoInputs.cache
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Webinar_2_example_2/obj/Debug/net6.0/Webinar_2_Example_2.AssemblyInfo.cs
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Webinar_2_example_2/obj/Debug/net6.0/Webinar_2_Example_2.csproj.CoreCompileInputs.cache
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Webinar_2_example_2/obj/Debug/net6.0/Webinar_2_Example_2.dll
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Webinar_2_example_2/obj/Debug/net6.0/refint/Webinar_2_Example_2.dll
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Webinar_2_example_2/obj/Debug/net6.0/Webinar_2_Example_2.pdb
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Webinar_2_example_2/obj/Debug/net6.0/Webinar_2_Example_2.genruntimeconfig.cache
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Webinar_2_example_2/obj/Debug/net6.0/ref/Webinar_2_Example_2.dll
