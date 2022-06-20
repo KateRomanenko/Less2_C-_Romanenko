@@ -1,0 +1,15 @@
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/DZ_web02/obj/Debug/net6.0/DZ_web02.csproj.AssemblyReference.cache
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/DZ_web02/obj/Debug/net6.0/DZ_web02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/DZ_web02/obj/Debug/net6.0/DZ_web02.AssemblyInfoInputs.cache
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/DZ_web02/obj/Debug/net6.0/DZ_web02.AssemblyInfo.cs
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/DZ_web02/obj/Debug/net6.0/DZ_web02.csproj.CoreCompileInputs.cache
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/DZ_web02/bin/Debug/net6.0/DZ_web02
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/DZ_web02/bin/Debug/net6.0/DZ_web02.deps.json
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/DZ_web02/bin/Debug/net6.0/DZ_web02.runtimeconfig.json
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/DZ_web02/bin/Debug/net6.0/DZ_web02.dll
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/DZ_web02/bin/Debug/net6.0/DZ_web02.pdb
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/DZ_web02/obj/Debug/net6.0/DZ_web02.dll
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/DZ_web02/obj/Debug/net6.0/refint/DZ_web02.dll
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/DZ_web02/obj/Debug/net6.0/DZ_web02.pdb
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/DZ_web02/obj/Debug/net6.0/DZ_web02.genruntimeconfig.cache
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/DZ_web02/obj/Debug/net6.0/ref/DZ_web02.dll
