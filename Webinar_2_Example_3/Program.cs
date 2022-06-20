@@ -34,3 +34,5 @@ else
     Console.Write("Число не кратно");
 }
 
+
+
