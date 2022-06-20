@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Webinar_3_Example_3/Webinar_3_Example_3.csproj": {}
+    "/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Webinar_2_Example_3/Webinar_3_Example_3.csproj": {}
   },
   "projects": {
-    "/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Webinar_3_Example_3/Webinar_3_Example_3.csproj": {
+    "/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Webinar_2_Example_3/Webinar_3_Example_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Webinar_3_Example_3/Webinar_3_Example_3.csproj",
+        "projectUniqueName": "/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Webinar_2_Example_3/Webinar_3_Example_3.csproj",
         "projectName": "Webinar_3_Example_3",
-        "projectPath": "/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Webinar_3_Example_3/Webinar_3_Example_3.csproj",
+        "projectPath": "/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Webinar_2_Example_3/Webinar_3_Example_3.csproj",
         "packagesPath": "/Users/ekaterinaromanenko/.nuget/packages/",
-        "outputPath": "/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Webinar_3_Example_3/obj/",
+        "outputPath": "/Users/ekaterinaromanenko/Desktop/C Sharp/Less_2_CSharp_Romanenko/Webinar_2_Example_3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ekaterinaromanenko/.nuget/NuGet/NuGet.Config"
